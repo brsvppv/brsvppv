@@ -77,7 +77,7 @@ Designing and automating solutions that bridge on-premises systems with modern c
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="50" height="50"> | Power Platform Solution Architect Expert | PL-600 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" height="50"> | Power Platform Developer Associate | PL-400 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50" height="50"> | Azure Fundamentals | AZ-900 |
-| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg" width="50" height="50"> | SQL Database Infrastructure | 70-764 |
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg" width="50" height="50"> | Administering a SQL Database Infrastructure  | 70-764 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge.svg" width="50" height="50"> | Microsoft Certified Professional | - |
 
 ## 📫 Connect With Me
