@@ -71,8 +71,6 @@ Designing and automating solutions that bridge on-premises systems with modern c
 | **Data Security**   | Azure Key Vault, Encryption at rest/in-transit                                 |
 
 ## 🏆 Certifications
-## 🏆 Certifications
-
 | **Badge** | **Certification** | **Exam** |
 |-----------|-------------------|----------|
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" height="50"> | Azure Administrator Associate | AZ-104 |
