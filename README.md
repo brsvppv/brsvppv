@@ -74,6 +74,7 @@
 | **Badge** | **Certification** | **Exam** |
 |-----------|-------------------|----------|
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" height="50"> | Azure Administrator Associate | AZ-104 |
+| <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" height="50"> Identity and Access Administrator | SC-300 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="50" height="50"> | Power Platform Solution Architect Expert | PL-600 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" height="50"> | Power Platform Developer Associate | PL-400 |
 | <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="50" height="50"> | Azure Fundamentals | AZ-900 |
