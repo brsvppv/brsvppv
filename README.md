@@ -25,7 +25,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional_Access-5C2D91?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power_Platform-339933?style=for-the-badge&logo=power-platform&logoColor=white)
